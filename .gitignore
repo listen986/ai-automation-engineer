@@ -1,0 +1,8 @@
+# 项目私密数据（不上传）
+knowledge/episodic/session_log.md
+knowledge/mistakes/log.md
+memory/episodic/recent.md
+
+# 系统文件
+.DS_Store
+*.swp
